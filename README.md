@@ -4,7 +4,13 @@
 Seasoned Full Stack & Mobile App Developer with 7+ years of experience crafting scalable web backends and premium mobile applications.
 
 ## 🛠 Skills
-Nest JS, Node JS Express, Javascript, Typescript, Python, PHP, MySQL, MongoDB, Postgres DB, Cassandra, Firebase, Redis, HTML, Flutter, Angular, Next JS, AWS, React Native, Expo
+Mobile Dev: React Native, Expo, Flutter
+Frontend: NextJS, Angular, TypeScript, JavaScript, jQuery, HTML
+Backend: NestJS, Node.js (Express), Python, PHP, Queues
+Databases: PostgreSQL, MySQL, MongoDB, Cassandra, Redis
+Cloud & DevOps: AWS, Google Cloud, Azure, Firebase
+Web3 & Blockchain: Ethereum, Motoko (ICP), Ethers.js, Web3.js, JSON-RPC HTTP Providers (Infura / Alchemy)
+AI & Intelligence: Gemini, Claude, OpenAI API, LangChain, Cursor, Copilot, local LLMs (Ollama)
 
 <!---
 dravidsajin/dravidsajin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
