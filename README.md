@@ -1,60 +1,27 @@
-# Hi, I'm Dravid Sajin! 👋
+# Hi, I'm Dravid Sajin 👋
 
-## 🚀 About Me
-Seasoned Full Stack & Mobile App Developer with 7+ years of experience crafting scalable web backends and premium mobile applications.
+🚀 **Lead Software Engineer | Full Stack & Mobile Developer**  
+7+ years of experience building scalable backend systems, cross-platform mobile apps, AI-powered solutions, and cloud-native applications.
 
 ## 💻 Tech Stack
-### 📱 Mobile Development
-- React Native
-- Expo
-- Flutter
 
-### 🎨 Frontend
-- Next.js
-- Angular
-- TypeScript
-- JavaScript
-- jQuery
-- HTML5
-- CSS3
+**📱 Mobile:** React Native • Expo • Flutter
 
-### ⚙️ Backend
-- NestJS
-- Node.js (Express)
-- Python
-- PHP
-- Message Queues
+**🎨 Frontend:** Next.js • Angular • TypeScript • JavaScript • jQuery • HTML5 • CSS3
 
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Cassandra
-- Redis
+**⚙️ Backend:** NestJS • Node.js (Express) • Python • PHP • Message Queues
 
-### ☁️ Cloud & DevOps
-- AWS
-- Google Cloud Platform (GCP)
-- Microsoft Azure
-- Firebase
+**🗄️ Databases:** PostgreSQL • MySQL • MongoDB • Cassandra • Redis
 
-### ⛓️ Web3 & Blockchain
-- Ethereum
-- Motoko (Internet Computer)
-- Ethers.js
-- Web3.js
-- JSON-RPC Providers (Infura & Alchemy)
+**☁️ Cloud & DevOps:** AWS • GCP • Azure • Firebase
 
-### 🤖 AI & Intelligent Systems
-- Google Gemini
-- Claude
-- OpenAI API
-- LangChain
-- Cursor AI
-- GitHub Copilot
-- Ollama (Local LLMs)
+**⛓️ Web3:** Ethereum • Motoko (Internet Computer) • Ethers.js • Web3.js • Infura • Alchemy
+
+**🤖 AI:** OpenAI • Claude • Gemini • LangChain • Ollama • Cursor AI • GitHub Copilot
+
+---
+⭐ Passionate about building scalable software, premium mobile experiences, AI products, and modern cloud architectures.
 
 <!---
-dravidsajin/dravidsajin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+dravidsajin/dravidsajin is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
